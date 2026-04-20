@@ -30,7 +30,7 @@
 - **Outros**: Git, Vercel, CI/CD
 
 ## 📌 Projetos em Destaque
-- **[Controle de ponto](https://controleponto.vercel.app) (em desenvolvimento)** 
+- **[Controle de ponto](https://controleponto.vercel.app)** 
   
   Aplicação em Next.js + TypeScript com DB PostgresSQL publicada na Vercel. A aplicação tem o objetivo de fornecer um controle de ponto automatizado e simples para que usuários possam ter um controle de horas extras sem o uso de planilhas. 
   
@@ -38,7 +38,7 @@
   
   🔗 [Link da aplicação](https://controleponto.vercel.app)
 
-- **[Controle de ponto](https://controleponto.vercel.app) (em desenvolvimento)** 
+- **[Bank Bills](https://github.com/jlucassaldanha/bankbills) (em desenvolvimento)** 
   
   API Rest no ecossistema .NET (C#) com Banco de Dados PostgresSQL. A aplicação tem o objetivo de fornecer análise de gastos por meio da leitura de extratos bancarios. 
   
