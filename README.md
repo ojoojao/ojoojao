@@ -30,11 +30,11 @@
 - **Outros**: Git, Vercel, CI/CD
 
 ## 🎓 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas** - UniCV - Cursando
+- **Análise e Desenvolvimento de Sistemas** - UniCiVe - Concluído
 - **Técnico eletrônico** - IFSul - Concluído
 
 ## 💼 Experiência
-- **Lifemed:** Desenvolvimento de sistemas em C# .NET, Python, React + TypeScript.
+- **Lifemed:** Desenvolvimento de sistemas em Python, Node.js, React + TypeScript.
 
 ## 📫 Onde me encontrar
 - [LinkedIn (João Lucas Saldanha)](https://www.linkedin.com/in/joao-lucas-saldanha/)  
